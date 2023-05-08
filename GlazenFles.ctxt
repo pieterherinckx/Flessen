@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GlazenFles
+comment0.text=\r\n\ class\ GlazenFles\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=capaciteit\ beschrijving
+comment1.target=GlazenFles(int,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ getKapot()
+comment3.params=
+comment3.target=void\ vallen()
+numComments=4

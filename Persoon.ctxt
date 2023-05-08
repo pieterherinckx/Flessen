@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Persoon
+comment0.text=\r\n\ class\ Persoon\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=
+comment1.target=Persoon()
+comment2.params=fles
+comment2.target=void\ koop(Fles)
+comment3.params=fles\ hoeveelheid
+comment3.target=void\ drink(Fles,\ int)
+comment4.params=
+comment4.target=void\ toonFlessen()
+numComments=5
